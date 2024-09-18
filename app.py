@@ -90,16 +90,13 @@ def show_dosage_forms():
 def show_prescribing_products():
     st.header("Prescribing Products")
     try:
-        query = """
-        SELECT pp.ProductID, ai.ActiveIngredientName, df.DosageFormDescription, pp.PrescribingProduct, pp.Strength
-        FROM prescribing_products pp
-        JOIN active_ingredients ai ON pp.ActiveIngredientID = ai.IngredientID
-        JOIN dosage_forms df ON pp.DosageFormID = df.DosageFormID
-        """
+        query = """SELECT * FROM prescribing_products"""
+        
         prescribing_products = pd.read_sql(query, engine)
-        selected_product = st.selectbox("Select a Prescribing Product", prescribing_products['PrescribingProduct'])
-        product_details = prescribing_products[prescribing_products['PrescribingProduct'] == selected_product]
-        st.write(product_details)
+        #selected_product = st.selectbox("Select a Prescribing Product", prescribing_products['PrescribingProduct'])
+        #product_details = prescribing_products[prescribing_products['PrescribingProduct'] == selected_product]
+        #st.write(product_details)
+        st.dataframe(prescribing_products)
     except SQLAlchemyError as e:
         st.error(f"Error fetching Prescribing Products: {e}")
 

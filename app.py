@@ -13,15 +13,6 @@ DATABASE_URL = "sqlite:///ehr_medications.db"
 # Create a SQLAlchemy engine
 engine = create_engine(DATABASE_URL)
 
-# -----------------------------------
-# Streamlit App Layout
-# -----------------------------------
-
-st.title("EHR Medications Formulary Database Demo")
-
-# Sidebar for navigation
-menu = ["Search brands by Prescribing Product","Active Ingredients", "Dosage Forms", "Prescribing Products", "Brands"]
-choice = st.sidebar.selectbox("Menu", menu)
 
 # -----------------------------------
 # Function Definitions
@@ -96,7 +87,7 @@ def show_prescribing_products():
         #selected_product = st.selectbox("Select a Prescribing Product", prescribing_products['PrescribingProduct'])
         #product_details = prescribing_products[prescribing_products['PrescribingProduct'] == selected_product]
         #st.write(product_details)
-        st.dataframe(prescribing_products)
+        st.dataframe(prescribing_products,use_container_width=False)
     except SQLAlchemyError as e:
         st.error(f"Error fetching Prescribing Products: {e}")
 
@@ -114,16 +105,29 @@ def show_brands():
     except SQLAlchemyError as e:
         st.error(f"Error fetching Brands: {e}")
 
+
+# -----------------------------------
+# Streamlit App Layout
+# -----------------------------------
+
+st.title("EHR Medications Formulary Database Demo")
 # -----------------------------------
 # Navigation Logic
 # -----------------------------------
-if choice == "Search brands by Prescribing Product":
+# Sidebar for navigation using buttons
+st.sidebar.header("Menu")
+
+
+#st.sidebar.button("Search Prescribing Product")
+if st.sidebar.button('Search Prescribing Product'):
     search_prescribing_product()
-elif choice == "Active Ingredients":
-    show_active_ingredients()
-elif choice == "Dosage Forms":
-    show_dosage_forms()
-elif choice == "Prescribing Products":
+if st.sidebar.button("Prescribing Products"):
     show_prescribing_products()
-elif choice == "Brands":
+if st.sidebar.button("Brands"):
     show_brands()
+if st.sidebar.button("Active Ingredients"):
+    show_active_ingredients()
+if st.sidebar.button("Dosage Forms"):
+    show_dosage_forms()
+
+

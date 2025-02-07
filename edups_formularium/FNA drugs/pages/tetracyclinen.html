@@ -1,0 +1,919 @@
+<!-- ToDo: loginUser still has to be activated. -->
+<!DOCTYPE html>
+<html lang="nl" class="no-js">
+<head>
+
+    <title>tetracyclinen</title>
+<meta name="DCTERMS.title" content=""/>
+<meta name="og.title" content="tetracyclinen"/>
+<meta content="https://www.farmacotherapeutischkompas.nl/assets/favicon/touch-icon.png" property="og:image" />
+
+<meta name="keywords" content=""/>
+<meta name="DCTERMS.modified" content="" title="XSD.dateTime"/>
+<meta name="DCTERMS.identifier" content="www.farmacotherapeutischkompas.nl"/>
+<meta name="DCTERMS.type" content="webcontent" title="FARMACOTHERAPEUTISCHKOMPAS.content"/>
+<meta name="DCTERMS.language" content="nl-NL" title="XSD.language"/>
+<meta name="DCTERMS.creator" content="Zorginstituut Nederland" title="ZORGINSTITUUT.Organisatie"/>
+<meta name="DCTERMS.publisher" content="Zorginstituut Nederland" title="ZORGINSTITUUT.Organisatie"/>
+<meta name="DCTERMS.spatial" content="Nederland" title="OVERHEID.Koninkrijksdeel"/>
+<meta name="robots" content="index, follow"/>
+
+
+
+
+<!-- iPhone X (1125px x 2436px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="/assets/launch-screen/launch-1125x2436.png">
+    <!-- iPhone 8, 7, 6s, 6 (750px x 1334px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/assets/launch-screen/launch-750x1334.png">
+    <!-- iPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus (1242px x 2208px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)" href="/assets/launch-screen/launch-1242x2208.png">
+    <!-- iPhone 5 (640px x 1136px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/assets/launch-screen/launch-640x1136.png">
+    <!-- iPad Mini, Air (1536px x 2048px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" href="/assets/launch-screen/launch-1536x2048.png">
+    <!-- iPad Pro 10.5" (1668px x 2224px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" href="/assets/launch-screen/launch-1668x2224.png">
+    <!-- iPad Pro 12.9" (2048px x 2732px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" href="/assets/launch-screen/launch-2048x2732.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/touch-icon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/touch-icon.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+
+    <meta name="msapplication-TileColor" content="#39870c">
+    <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#39870c">
+
+    <meta name="viewport" content = "width = device-width, initial-scale = 1.0, minimum-scale = 1, maximum-scale = 1, user-scalable = no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta content="Farmacotherapeutisch Kompas">
+    <meta name="mobile-web-app-title" content="Farmacotherapeutisch Kompas">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="stylesheet" media="all" href="/assets/style/style.css?v=5.22.00" type="text/css"/>
+        <script src="/assets/script/bundle.min.js?v=5.22.00" type="text/javascript"></script>
+    <meta name="Implementation-Version" content="5.22.00, 14.7.3"/>
+
+</head>
+<body class="product-fk page-type-medicine-group anonymous pat-scroll-box ">
+    <script type="text/javascript" nonce=RkE1ODE5MkI4QUYyRkE5MkY4NzQxODFGRDQ4NzFCNEE>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-11085534-1', 'auto');
+ga('set', 'forceSSL', true);
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; 
+sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_6010632.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/</script>
+        <div id="global-nav" class="variation-medicine-group pat-sticky" role="menubar">
+    <div class="container">
+        <nav id="breadcrumbs">
+            <h1 class="assistive">
+                Farmacotherapeutisch Kompas</h1>
+            <p class="assistive">U bevindt zich hier:</p>
+                <a class="pat-inject homepage" data-pat-inject=" history: record" href="/">Farmacotherapeutisch Kompas</a>
+                                <a class="pat-inject " data-pat-inject=" history: record" href="/bladeren/groepsteksten/alfabet">Geneesmiddelgroepen</a>
+                                </nav>
+        <form id="quick-search-form"
+              class="pat-form pat-inject pat-autosubmit"
+              accept-charset="UTF-8"
+              action="/zoeken"
+              method="get"
+              name="quick-search-form"
+              data-pat-inject="source: #search-results; target: #search-results;"
+              data-pat-autosubmit="delay: 500ms">
+            <label for="global-search-lemma">Geneesmiddel, -groep of indicatie</label>
+            <input name="alledomeinen_zoekterm"
+                   id="global-search-lemma"
+                   type="text"
+                   placeholder="Geneesmiddel, -groep of indicatie"
+                   value=""
+                   autocomplete="off"
+                   autocorrect="off"
+                   autocapitalize="off"
+                   spellcheck="false"/>
+
+            <button type="submit">Zoek</button>
+            <a id="global-search-reset &&"
+               class="pat-inject clear-field"
+               href="/bladeren/groepsteksten/tetracyclinen"
+               data-pat-inject=" source: #search-content-and-page-separator::element; target: #search-results && source: #quick-search-form; target: #quick-search-form" >
+                Wis invoer</a>
+            <input id="domein"
+                   name="domein"
+                   value="geneesmiddelen"
+                   type="hidden"/>
+        </form>
+        <div id="search-results">
+            <!-- Search results — if any — are injected here. -->
+            <hr class="assistive" id="search-content-and-page-separator">
+        </div>
+
+
+
+    </div>
+</div>
+<div class="main" role="main" id="main">
+        <div id="card-nav">
+    <div class="container" id="tetracyclinen_overzicht_groepstekst">
+        <div class="canvas-toolbar">
+            <h2>
+                    Geneesmiddelenoverzicht tetracyclinen <label class="pat-select bare">
+                            <select name="indication">
+                                <option value="all">
+                                    voor alle indicaties</option>
+                                acne_vulgarisacne_vulgaris<option value="acne_vulgaris">
+                                        voor acne vulgaris</option>
+                                acute_faryngotonsillitisacute_faryngotonsillitis<option value="acute_faryngotonsillitis">
+                                        voor acute faryngotonsillitis</option>
+                                acute_rinosinusitisacute_rinosinusitis<option value="acute_rinosinusitis">
+                                        voor acute rinosinusitis</option>
+                                aftenaften<option value="aften">
+                                        voor aften</option>
+                                bacteriele_huidinfectiesbacteriele_huidinfecties<option value="bacteriele_huidinfecties">
+                                        voor bacteriële huidinfecties</option>
+                                community_acquired_pneumonie__cap_community_acquired_pneumonie__cap_<option value="community_acquired_pneumonie__cap_">
+                                        voor community-acquired pneumonie (CAP)</option>
+                                malariamalaria<option value="malaria">
+                                        voor malaria</option>
+                                otitis_media_acutaotitis_media_acuta<option value="otitis_media_acuta">
+                                        voor otitis media acuta</option>
+                                rosacearosacea<option value="rosacea">
+                                        voor rosacea</option>
+                                seksueel_overdraagbare_aandoeningenseksueel_overdraagbare_aandoeningen<option value="seksueel_overdraagbare_aandoeningen">
+                                        voor seksueel overdraagbare aandoeningen</option>
+                                urineweginfectiesurineweginfecties<option value="urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_">
+                                        voor urineweginfectie met weefselinvasie (pyelonefritis, acute prostatitis)</option>
+                                </select>
+                        </label>
+                    </h2>
+            <p class="assistive">
+                Deze hoofdrubriek bevat 11 rubrieken:</p>
+        </div>
+
+        <div class="card-navigator pat-equaliser count-7">
+
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all; transition: css"
+                 id="card-1">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/d/demeclocycline" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    demeclocycline</h3>
+                            <p class="application">
+                                oraal</p>
+                            <ul class="brands">
+                                <li>Ledermycin</li>
+                                        </ul>
+                        </a>
+
+                        </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/d/demeclocycline" class="pat-inject" data-pat-inject=" history: record">
+                                        demeclocycline</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-1; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all or indication = acne_vulgaris or indication = acute_faryngotonsillitis or indication = acute_rinosinusitis or indication = bacteriele_huidinfecties or indication = community_acquired_pneumonie__cap_ or indication = malaria or indication = otitis_media_acuta or indication = rosacea or indication = seksueel_overdraagbare_aandoeningen; transition: css"
+                 id="card-2">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/d/doxycycline" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    doxycycline</h3>
+                            <p class="application">
+                                oraal, parenteraal (inj./inf.)</p>
+                            <ul class="brands">
+                                <li>Doxy Disp</li>
+                                        <li>Doxycycline</li>
+                                        <li>Doxycycline</li>
+                                        <li>Efracea</li>
+                                        <li>Vibramycin</li>
+                                        </ul>
+                        </a>
+
+                        <div class="superimpose pat-depends" data-pat-depends="condition: indication = all">
+                                    <p class="button-bar">
+                                         <span class="pat-toggle flip" tabindex="0"
+                                               data-pat-toggle="selector: #card-2; value: show-front show-back">Toon indicaties</span>
+                                    </p>
+                                </div>
+                            </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/d/doxycycline" class="pat-inject" data-pat-inject=" history: record">
+                                        doxycycline</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acne_vulgaris" data-pat-inject=" history: record; source: body; target: body;">
+                                                acne vulgaris</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acute_faryngotonsillitis" data-pat-inject=" history: record; source: body; target: body;">
+                                                acute faryngotonsillitis</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acute_rinosinusitis" data-pat-inject=" history: record; source: body; target: body;">
+                                                acute rinosinusitis</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/bacteriele_huidinfecties" data-pat-inject=" history: record; source: body; target: body;">
+                                                bacteriële huidinfecties</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/community_acquired_pneumonie__cap_" data-pat-inject=" history: record; source: body; target: body;">
+                                                community-acquired pneumonie (CAP)</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/malaria" data-pat-inject=" history: record; source: body; target: body;">
+                                                malaria</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/otitis_media_acuta" data-pat-inject=" history: record; source: body; target: body;">
+                                                otitis media acuta</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/rosacea" data-pat-inject=" history: record; source: body; target: body;">
+                                                rosacea</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/seksueel_overdraagbare_aandoeningen" data-pat-inject=" history: record; source: body; target: body;">
+                                                seksueel overdraagbare aandoeningen</a>
+                                    </li>
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-2; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all; transition: css"
+                 id="card-3">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/e/eravacycline" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    eravacycline</h3>
+                            <p class="application">
+                                parenteraal (inj./inf.)</p>
+                            <ul class="brands">
+                                <li>Xerava</li>
+                                        </ul>
+                        </a>
+
+                        </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/e/eravacycline" class="pat-inject" data-pat-inject=" history: record">
+                                        eravacycline</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-3; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all or indication = acne_vulgaris or indication = acute_faryngotonsillitis or indication = bacteriele_huidinfecties or indication = community_acquired_pneumonie__cap_ or indication = rosacea or indication = seksueel_overdraagbare_aandoeningen or indication = urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_; transition: css"
+                 id="card-4">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/m/minocycline" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    minocycline</h3>
+                            <p class="application">
+                                oraal</p>
+                            <ul class="brands">
+                                <li>Minocycline</li>
+                                        </ul>
+                        </a>
+
+                        <div class="superimpose pat-depends" data-pat-depends="condition: indication = all">
+                                    <p class="button-bar">
+                                         <span class="pat-toggle flip" tabindex="0"
+                                               data-pat-toggle="selector: #card-4; value: show-front show-back">Toon indicaties</span>
+                                    </p>
+                                </div>
+                            </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/m/minocycline" class="pat-inject" data-pat-inject=" history: record">
+                                        minocycline</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acne_vulgaris" data-pat-inject=" history: record; source: body; target: body;">
+                                                acne vulgaris</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acute_faryngotonsillitis" data-pat-inject=" history: record; source: body; target: body;">
+                                                acute faryngotonsillitis</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/bacteriele_huidinfecties" data-pat-inject=" history: record; source: body; target: body;">
+                                                bacteriële huidinfecties</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/community_acquired_pneumonie__cap_" data-pat-inject=" history: record; source: body; target: body;">
+                                                community-acquired pneumonie (CAP)</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/rosacea" data-pat-inject=" history: record; source: body; target: body;">
+                                                rosacea (off-label)</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/seksueel_overdraagbare_aandoeningen" data-pat-inject=" history: record; source: body; target: body;">
+                                                seksueel overdraagbare aandoeningen</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/urineweginfecties?anchor=urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_" data-pat-inject=" history: record; source: body; target: body;">
+                                                urineweginfectie met weefselinvasie (pyelonefritis, acute prostatitis)</a>
+                                    </li>
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-4; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all or indication = aften; transition: css"
+                 id="card-5">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/t/tetracycline__oromucosaal_" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    tetracycline (oromucosaal)</h3>
+                            <p class="application">
+                                oromucosaal</p>
+                            <ul class="brands">
+                                <li>Tetracyclinemondspoeling FNA</li>
+                                        </ul>
+                        </a>
+
+                        <div class="superimpose pat-depends" data-pat-depends="condition: indication = all">
+                                    <p class="button-bar">
+                                         <span class="pat-toggle flip" tabindex="0"
+                                               data-pat-toggle="selector: #card-5; value: show-front show-back">Toon indicaties</span>
+                                    </p>
+                                </div>
+                            </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/t/tetracycline__oromucosaal_" class="pat-inject" data-pat-inject=" history: record">
+                                        tetracycline (oromucosaal)</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/aften" data-pat-inject=" history: record; source: body; target: body;">
+                                                aften</a>
+                                    </li>
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-5; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all or indication = acne_vulgaris or indication = acute_faryngotonsillitis or indication = bacteriele_huidinfecties or indication = community_acquired_pneumonie__cap_ or indication = otitis_media_acuta or indication = seksueel_overdraagbare_aandoeningen or indication = urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_; transition: css"
+                 id="card-6">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/t/tetracycline__systemisch_" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    tetracycline (systemisch)</h3>
+                            <p class="application">
+                                oraal</p>
+                            <ul class="brands">
+                                <li>Tetracycline</li>
+                                        </ul>
+                        </a>
+
+                        <div class="superimpose pat-depends" data-pat-depends="condition: indication = all">
+                                    <p class="button-bar">
+                                         <span class="pat-toggle flip" tabindex="0"
+                                               data-pat-toggle="selector: #card-6; value: show-front show-back">Toon indicaties</span>
+                                    </p>
+                                </div>
+                            </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/t/tetracycline__systemisch_" class="pat-inject" data-pat-inject=" history: record">
+                                        tetracycline (systemisch)</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acne_vulgaris" data-pat-inject=" history: record; source: body; target: body;">
+                                                acne vulgaris</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acute_faryngotonsillitis" data-pat-inject=" history: record; source: body; target: body;">
+                                                acute faryngotonsillitis</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/bacteriele_huidinfecties" data-pat-inject=" history: record; source: body; target: body;">
+                                                bacteriële huidinfecties</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/community_acquired_pneumonie__cap_" data-pat-inject=" history: record; source: body; target: body;">
+                                                community-acquired pneumonie (CAP)</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/otitis_media_acuta" data-pat-inject=" history: record; source: body; target: body;">
+                                                otitis media acuta</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/seksueel_overdraagbare_aandoeningen" data-pat-inject=" history: record; source: body; target: body;">
+                                                seksueel overdraagbare aandoeningen</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/urineweginfecties?anchor=urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_" data-pat-inject=" history: record; source: body; target: body;">
+                                                urineweginfectie met weefselinvasie (pyelonefritis, acute prostatitis)</a>
+                                    </li>
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-6; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="card flip-card show-front has-inications pat-depends"
+                 data-pat-depends="condition: indication = all or indication = bacteriele_huidinfecties; transition: css"
+                 id="card-7">
+                <div class="flipper">
+                    <div class="front">
+                        <a href="/bladeren/preparaatteksten/t/tigecycline" class="content pat-rich pat-inject" data-pat-inject=" history: record">
+                            <h3>
+                                    tigecycline</h3>
+                            <p class="application">
+                                parenteraal (inj./inf.)</p>
+                            <ul class="brands">
+                                <li>Tygacil</li>
+                                        </ul>
+                        </a>
+
+                        <div class="superimpose pat-depends" data-pat-depends="condition: indication = all">
+                                    <p class="button-bar">
+                                         <span class="pat-toggle flip" tabindex="0"
+                                               data-pat-toggle="selector: #card-7; value: show-front show-back">Toon indicaties</span>
+                                    </p>
+                                </div>
+                            </div>
+
+                    <div class="back pat-depends" data-pat-depends="condition: indication = all">
+                        <article class="content pat-rich">
+                            <p class="button-bar">
+                                <a href="/bladeren/preparaatteksten/t/tigecycline" class="pat-inject" data-pat-inject=" history: record">
+                                        tigecycline</a> wordt voorgeschreven bij:</p>
+                            <ul class="link-list indications">
+                                <li>
+                                        <a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/bacteriele_huidinfecties" data-pat-inject=" history: record; source: body; target: body;">
+                                                bacteriële huidinfecties</a>
+                                    </li>
+                                </ul>
+                        </article>
+                        <div class="superimpose">
+                            <p class="button-bar">
+                            <span class="pat-toggle flip" tabindex="0"
+                                  data-pat-toggle="selector: #card-7; value: show-back show-front">Toon geneesmiddelen</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<article class="pat-rich indication-reference">
+            <p>
+                <span class="pat-depends" data-pat-depends="condition: indication = acne_vulgaris or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/acne_vulgaris" class="pat-inject" data-pat-inject=" history: record"><strong>acne vulgaris</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = acute_faryngotonsillitis or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/acute_faryngotonsillitis" class="pat-inject" data-pat-inject=" history: record"><strong>acute faryngotonsillitis</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = acute_rinosinusitis or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/acute_rinosinusitis" class="pat-inject" data-pat-inject=" history: record"><strong>acute rinosinusitis</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = aften or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/aften" class="pat-inject" data-pat-inject=" history: record"><strong>aften</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = bacteriele_huidinfecties or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/bacteriele_huidinfecties" class="pat-inject" data-pat-inject=" history: record"><strong>bacteriële huidinfecties</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = community_acquired_pneumonie__cap_ or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/community_acquired_pneumonie__cap_" class="pat-inject" data-pat-inject=" history: record"><strong>community-acquired pneumonie (CAP)</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = malaria or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/malaria" class="pat-inject" data-pat-inject=" history: record"><strong>malaria</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = otitis_media_acuta or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/otitis_media_acuta" class="pat-inject" data-pat-inject=" history: record"><strong>otitis media acuta</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = rosacea or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/rosacea" class="pat-inject" data-pat-inject=" history: record"><strong>rosacea</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = seksueel_overdraagbare_aandoeningen or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/seksueel_overdraagbare_aandoeningen" class="pat-inject" data-pat-inject=" history: record"><strong>seksueel overdraagbare aandoeningen</strong></a>.
+                    </span>
+                <span class="pat-depends" data-pat-depends="condition: indication = urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_ or indication = one; transition: fade;">
+                        Meer informatie over&#32;
+                        <a href="/bladeren/indicatieteksten/urineweginfecties?anchor=urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_" class="pat-inject" data-pat-inject=" history: record"><strong>urineweginfectie met weefselinvasie (pyelonefritis, acute prostatitis)</strong></a>.
+                    </span>
+                Een volledig overzicht van alle indicaties per geneesmiddel kunt u vinden in de geneesmiddelteksten.</p>
+        </article>
+    </div>
+</div>
+
+<div id="content">
+    <div class="container">
+
+        <div class="row content-group">
+            <aside class="four columns" id="sidebar-right">
+                <div class="aside-block aside-blue index open do-not-print pat-sticky" id="toc">
+        <div class="block-title">
+            <h2>Inhoudsopgave</h2>
+        </div>
+
+        <div class="block-content">
+            <ul class="index-list pat-navigation" id="spy-list">
+                <li id="toc-item-overzicht_groepstekst"><a href="#tetracyclinen_overzicht_groepstekst" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Geneesmiddelen" data-action="Groepstekst">Geneesmiddelen</a></li>
+                        <li id="toc-item-werking"><a href="#tetracyclinen_werking" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Werking" data-action="Groepstekst">Werking</a></li>
+                        <li id="toc-item-typerende_bijwerkingen"><a href="#tetracyclinen_typerende_bijwerkingen" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Typerende bijwerkingen" data-action="Groepstekst">Typerende bijwerkingen</a></li>
+                        <li id="toc-item-toepasbaarheid"><a href="#tetracyclinen_toepasbaarheid" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Toepasbaarheid" data-action="Groepstekst">Toepasbaarheid</a></li>
+                        <li id="toc-item-kosten"><a href="#kosten" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Kosten" data-action="Groepstekst">Kosten</a></li>
+                <li id="toc-item-vergelijken"><a href="#vergelijken" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Vergelijken" data-action="Groepstekst">Vergelijken</a></li>
+                <li id="toc-item-zie-ook"><a href="#extra-info" class="si-event scroll-trigger" data-category="Inhoudsopgave" data-label="Zie ook" data-action="Groepstekst">Zie ook</a></li>
+                </ul>
+        </div>
+
+        </div>
+</aside>
+
+            <div class="eight columns" id="main-content">
+                <article class="pat-rich content indented pat-sticky" data-pat-sticky="selector: h2">
+                    <h1>tetracyclinen</h1>
+
+                    <section class="content-block" id="tetracyclinen_werking">
+        <h2>Werking</h2>
+            <h3>Werkingsmechanisme</h3> 
+<p><i>Tetracyclinen</i> hebben bij hieronder genoemde indicaties de volgende werking.</p> 
+<h4 class="list-header">Bij een bacteriële infectie</h4> 
+<ul> 
+ <li>binden ze reversibel aan de 30S– en/of 50S–subunits van de bacteriële ribosomen. Hierdoor wordt de bacteriële eiwitsynthese geremd;</li> 
+ <li>hebben ze doorgaans een bacteriostatische werking maar kunnen afhankelijk van de ter plekke bereikte concentratie en de bacteriesoort ook bactericide werken. </li> 
+</ul> 
+<h4 class="list-header">Bij rosacea</h4> 
+<ul> 
+ <li>remt doxycycline mogelijk de neutrofiele activiteit en het aantal pro-inflammatoire reacties.</li> 
+</ul> 
+<h4 class="list-header">Bij malaria</h4> 
+<ul> 
+ <li>remt doxycycline de paracytaire eiwitsynthese door inhibitie van intracellulaire eiwittranslatie;</li> 
+ <li>werkt doxycycline bloedschizonticide, echter het <span class="inline-reference" id="reference-1">mechanisme is traag <a class="pat-scroll reference-badge pat-tooltip" title="Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-1">1</a></span>. Daarom wordt doxycycline alleen in combinatie met antimalariamiddelen voorgeschreven.</li> 
+</ul> 
+<p><a class="pat-inject" data-pat-inject="hooks: raptor; history: record; source: body; target: body;" href="/bladeren/preparaatteksten/d/demeclocycline">Demeclocycline</a> is nauw verwant aan tetracycline en heeft antibacteriële en diuretische eigenschappen. Het wordt echter alleen toegepast bij chronische hyponatriëmie die is ontstaan door het syndroom van inadequate secretie van antidiuretisch hormoon (SIADH). Zie voor meer informatie de geneesmiddeltekst.</p> 
+<h3>Effect</h3> 
+<h4 class="list-header">Bij een infectie</h4> 
+<ul> 
+ <li>klaring van de bacteriële infectie.</li> 
+</ul> 
+<h4 class="list-header">Bij rosacea</h4> 
+<ul> 
+ <li>remming van de ontsteking (doxycycline, tetracycline).</li> 
+</ul> 
+<h4 class="list-header">Bij malaria</h4> 
+<ul> 
+ <li>preventie van systemische infectie door de malariaparasiet (doxycycline).</li> 
+</ul></section>
+<section class="content-block" id="tetracyclinen_typerende_bijwerkingen">
+        <h2>Typerende bijwerkingen</h2>
+            <p>De meeste bijwerkingen hangen af van de concentratie van het antibioticum in het betrokken orgaan. De meer lipofiele tetracyclinen (doxycycline en minocycline) hebben door hun affiniteit voor vetachtige weefsels naast een hogere (bacteriostatische) effectiviteit ook een ander bijwerkingenprofiel. Lokale gastro-intestinale irritatie en verstoring van de darmflora komen minder vaak voor dan bij de meer hydrofiele tetracyclinen.</p> 
+<p><strong>Systemische toepassing</strong></p> 
+<h4 class="list-header">Relatief frequent</h4> 
+<ul> 
+ <li>gastro-intestinale irritatie (branderig gevoel in epigastrio, buikpijn, misselijkheid, braken en diarree);</li> 
+ <li>fotosensibilisatie (doxycycline en tetracycline, in mindere mate bij minocycline);</li> 
+ <li>(verergering van) nierinsufficiëntie;</li> 
+ <li>beschadiging tanden en kiezen tijdens de ontwikkeling van het melk- en het permanente gebit; verkleuringen en hypoplasie kunnen het gevolg zijn. De toepassing bij kinderen &lt; 8 jaar is om deze reden dan ook gecontra-indiceerd (uitzondering op de contra-indicatie: tigecycline; de verkleuring treedt echter ook bij dit middel op).</li> 
+</ul> 
+<h4 class="list-header">Minder frequent</h4> 
+<ul> 
+ <li>overgevoeligheidsreacties, waaronder angio-oedeem en anafylaxie;</li> 
+ <li>verscheidene typen huiduitslag (morbilliform, urticaria, &apos;fixed drug eruption&apos;, gegeneraliseerde exfoliatieve dermatitis);</li> 
+ <li>onycholysis en pigmentatie van de nagels, met of zonder begeleidende fotosensibilisatie (demeclocycline, doxycycline, minocycline).</li> 
+ <li>oesofagitis, oesofageale ulcera (<span class="inline-reference" id="reference-2">geldt vooral voor oraal doxycycline en tetracycline <a class="pat-scroll reference-badge pat-tooltip" title="Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-1">1</a> <a class="pat-scroll reference-badge pat-tooltip" title="Aronson JK, et al. (eds). Meyler&apos;s side effects of drugs. 16th ed. Amsterdam: Elsevier, 2016." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-2">2</a></span> );</li> 
+ <li>overgroei van niet gevoelige organismen (vooral bij tetracycline), met name gisten (<i>Candida</i> spp.), enterokokken, <i>Proteus</i> en <i>Pseudomonas</i>; met als gevolg <span class="inline-reference" id="reference-3">bv. spruw of met <i>Candida</i>-geassocieerde oesofagitis <a class="pat-scroll reference-badge pat-tooltip" title="Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-1">1</a></span>;</li> 
+ <li>incidenteel pseudomembraneuze colitis door overgroei van <i>C. difficile</i>;</li> 
+ <li>hepatotoxiciteit (doxycycline, minocycline, tigecycline), zich uitend in vervetting van de lever, zwangere vrouwen zijn met name gevoelig hiervoor;</li> 
+ <li>langdurige behandeling kan leukocytose, atypische lymfocyten, toxische granulatie van granulocyten <span class="inline-reference" id="reference-4">en trombocytopenische purpura bewerkstelligen <a class="pat-scroll reference-badge pat-tooltip" title="Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-1">1</a></span>.</li> 
+</ul> 
+<section class="discrete more-info"> 
+ <h3>Meer informatie</h3> 
+ <p>De tolerantie voor de <i>gastro-intestinale irritatie</i> verbetert door inname met voedsel. Tetracyclinen echter niet innemen met melkproducten (dit geldt niet voor doxycycline). Door optredende complexvorming tussen tetracyclinen en antacida, welke divalente of trivalente kationen (dit zijn o.a. calcium, magnesium, aluminium, ijzer en zink) bevatten, kunnen rondom de inname van tetracyclinen ook geen antacida gebruikt worden om deze klachten te verlichten.</p> 
+ <p><i>Nierinsufficiëntie</i> komt met name voor bij patiënten met een pre-existent verminderde nierfunctie, vooral wanneer zij ook nog gedehydreerd zijn (door bv. diuretische therapie). Tetracyclinen kunnen uremie versterken, <span class="inline-reference" id="reference-5">in ieder geval ten dele door hun katabolische effect (verminderde eiwitsynthese) <a class="pat-scroll reference-badge pat-tooltip" title="Aronson JK, et al. (eds). Meyler&apos;s side effects of drugs. 16th ed. Amsterdam: Elsevier, 2016." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-2">2</a></span>. Doxycycline, minocycline en tigecycline hebben minder renale bijwerkingen dan andere <span class="inline-reference" id="reference-6">tetracyclinen <a class="pat-scroll reference-badge pat-tooltip" title="Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-1">1</a></span>, waarvan voor systemische toepassing bij infecties dan alleen nog tetracycline zelf in de handel is. Voor eravacycline is het nog onbekend of renale bijwerkingen optreden. Demeclocycline heeft meermaals het beeld van een nefrogene diabetes insipidus laten zien, in principe een bijwerking, waar echter dankbaar gebruik van wordt gemaakt bij de <span class="inline-reference" id="reference-7">behandeling van een SIADH <a class="pat-scroll reference-badge pat-tooltip" title="Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-1">1</a></span> (zie Werkingsmechanisme), de enige toepassing waar het thans voor geregistreerd is. Zeer zelden komt interstitiële nefritis voor.</p> 
+</section> 
+<p><strong>Lokale toepassing</strong></p> 
+<p>Bij het lokale tetracycline-preparaat is alleen orale candidiasis als bijwerking beschreven.</p></section>
+<section class="content-block" id="tetracyclinen_toepasbaarheid">
+        <h2>Toepasbaarheid</h2>
+            <h3>Ouderen</h3>
+                    <p>Volgens de productinformatie behoeft geen van de tetracyclinen een dosisaanpassing bij ouderen. Wees wel voorzichtig omdat ouderen vaker een verminderde nierfunctie hebben (zie Nierfunctiestoornis).</p><h3>Nierfunctiestoornis</h3>
+                    <p>Volgens de productinformatie: </p> 
+<ul> 
+ <li>van evaracycline en tigecycline is geen dosisaanpassing nodig bij een verminderde nierfunctie of bij patiënten die hemodialyse ondergaan.</li> 
+ <li>van minocycline dient bij een verminderde nierfunctie de dosis te worden verlaagd en/of het toedieningsinterval te worden verlengd.</li> 
+ <li>van demeclocycline en tetracycline is het gebruik bij een ernstig verminderde nierfunctie gecontra-indiceerd. Controleer bij een licht of matig verminderde nierfunctie de toepassing nauwlettend en pas de dosering zo nodig aan.</li> 
+ <li>van doxycycline is het gebruik bij de combinatie van een ernstige nier- en (enige mate) van leverinsufficiëntie gecontra-indiceerd.</li> 
+</ul><div class="pat-collapsible borderless closed">
+                        <h4 >
+                            Toelichting</h4>
+                        <p>Tetracyclinen kunnen, vanwege anti-anabole werking, een verhoging van het ureumgehalte in bloed veroorzaken. Bij nierfunctiestoornissen kunnen hogere concentraties van tetracycline leiden tot uremie, hyperfosfatemie en acidose. In geval van een verminderde nierfunctie kunnen zelfs normale doses leiden tot systemische accumulatie van het middel en mogelijke toxiciteit.</p></div>
+                <h3>Leverfunctiestoornis</h3>
+                    <p>Volgens <span class="inline-reference" id="reference-8">Health Base <a class="pat-scroll reference-badge pat-tooltip" title="Stichting Health Base. Geneesmiddelen bij levercirrose: Tetracyclines. Geraadpleegd februari 2023, via geneesmiddelenbijlevercirrose.nl." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-3">3</a></span> zijn er weinig gegevens bekend over het gebruik van tetracyclinen bij levercirrose; een dosisaanbeveling is niet mogelijk voor doxycyline, minocycline en tetracycline. Tigecycline is het best onderzocht en lijkt goed verdragen te worden bij cirrose met een Child-Pugh score 5 t/m 9; een dosisaanpassing bij deze patiënten is daarom niet nodig. Bij een Child-Pugh score ≥ 10 adviseert Health Base de onderhoudsdosis te halveren, en de stollingsparameters te monitoren.</p> 
+<p>Volgens de productinformatie:</p> 
+<ul> 
+ <li>van eravacycline is bij een verminderde leverfunctie geen dosisaanpassing nodig.</li> 
+ <li>van tigecycline is er geen dosisaanpassing nodig bij een licht tot matig verminderde leverfunctie (Child-Pughscore 5 t/m 9). Halveer de dosis bij volwassenen en kinderen met een ernstig verminderde leverfunctie (Child-Pughscore ≥ 10).</li> 
+ <li>van demeclocydine, doxycline, minocycline en tetracycline is gebruik bij een ernstig verminderde leverfunctie gecontra-indiceerd. Bij een lichte of matig verminderde leverfunctie de toepassing van deze middelen nauwlettend controleren en de dosering zo nodig aanpassen. Bij het gecombineerd voorkomen van een ernstige nierinsufficiëntie met enige mate van leverinsufficiëntie is het gebruik van doxycycline wel gecontra-indiceerd.</li> 
+</ul><h3>Zwangerschap</h3>
+                    <p>Volgens <span class="inline-reference" id="reference-9">Lareb <a class="pat-scroll reference-badge pat-tooltip" title="Lareb. Tetracyclinen bij infecties tijdens de zwangerschap. Geraadpleegd februari 2023, via lareb.nl." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-4">4</a></span> kan een kuur doxycycline waarschijnlijk veilig worden gebruikt tijdens het eerste trimester van de zwangerschap. Het is onbekend of andere tetracyclinen in het eerste trimester ook veilig zijn. Tetracyclinen mogen niet tijdens het tweede en derde timester worden gebruikt, omdat ze een nadelig effect kunnen hebben op de tand- en botontwikkeling van het kind. Echter, infecties tijdens de zwangerschap kunnen een nadelig effect hebben op moeder en/of kind, en dienen daarom adequaat te worden behandeld.</p><h3>Lactatie</h3>
+                    <p>Volgens <span class="inline-reference" id="reference-10">Lareb <a class="pat-scroll reference-badge pat-tooltip" title="Lareb. Tetracyclinen bij infecties tijdens de borstvoedingsperiode. Geraadpleegd februari 2023, via lareb.nl." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-5">5</a></span> kunnen alle tetracyclinen kortdurend worden gebruikt tijdens de borstvoedingsperiode. Bij het gebruik gedurende maximaal 3 weken zijn geen nadelige effecten op de zuigeling bekend. Bij langdurig gebruik, zoals bij acne, wordt het gebruik van een tetracycline of het geven van borstvoeding ontraden.</p><h3>Kinderen</h3>
+                    <p>Volgens de productinformatie:</p> 
+<ul> 
+ <li>van alle tetracyclinen is toepassing bij kinderen jonger dan 8 jaar gecontra-indiceerd of wordt dit ontraden;</li> 
+ <li>van doxycyline is toepassing bij faciale rosacea gecontra-indiceerd bij kinderen jonger dan 12 jaar. Toepassing van doxycyline bij kinderen 8-12 jaar dient alleen overwogen te worden als andere behandelopties niet effectief, gecontra-indiceerd of niet beschikbaar zijn; </li> 
+ <li>van demeclocydine is er geen aanbevolen dosering bekend bij kinderen &gt; 8 jaar.</li> 
+ <li>van eravacyline zijn er geen gegevens bekend over het gebruik bij kinderen &lt; 18 jaar.</li> 
+</ul> 
+<p>Het <span class="inline-reference" id="reference-11">Kinderformularium <a class="pat-scroll reference-badge pat-tooltip" title="NKFK. Kinderformularium. Geraadpleegd februari 2023, via kinderformularium.nl." data-pat-tooltip="position-list: tl; trigger: hover" href="#end-note-6">6</a></span> geeft voor doxycycline, naast doseringen voor de geregistreerde indicaties voor kinderen zoals genoemd in de geneesmiddeltekst, ook een dosering voor de offlabel toepassing bij infecties bij cystische fibrose bij kinderen vanaf 8 jaar. Voor minocycline geeft het Kinderformularium de doseringen voor de geregistreerde indicaties (bacteriële infecties, ernstige acne vulgaris), en voor tetracycline alleen voor de (geregistreerde) indicatie bacteriële infecties.</p><div class="pat-collapsible borderless closed">
+                        <h4 >
+                            Toelichting</h4>
+                        <p>Tetracyclinen mogen niet worden gebruikt bij kinderen jonger dan 8 jaar, wegens de schadelijke invloed op botten en tanden; afzetting in groeiend tandweefsel veroorzaakt permanente verkleuring van de gebitselementen en brozer worden van het botweefsel.</p></div>
+                </section>
+<section class="content-block" id="kosten">
+    <h2>
+        Kosten</h2>
+<a href="/bladeren/groepsteksten/kostenoverzicht/inline/tetracyclinen#kosten" class="pat-inject" id="cost-overview" data-pat-inject=" loading-class: injecting injecting-element; trigger: autoload-visible; target: #cost-overview::element">
+        Kosten laden…</a>
+</section>
+<section class="content-block" id="vergelijken">
+                        <h2>
+                            Vergelijken
+                        </h2>
+                        <p>
+                            <a href="/vergelijken/groepsteksten?vergelijkTeksten=tetracyclinen" class="icon-switch pat-inject" data-pat-inject=" history: record"><strong>tetracyclinen</strong> vergelijken met een andere geneesmiddelgroep.</a>
+                        </p>
+                    </section>
+
+                    <section class="content-block" id="extra-info">
+		<h2>Zie ook</h2>
+		<h3>Indicaties</h3>
+			<ul class="link-list">
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acne_vulgaris"
+						   data-pat-inject=" history: record;">acne vulgaris</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acute_faryngotonsillitis"
+						   data-pat-inject=" history: record;">acute faryngotonsillitis</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/acute_rinosinusitis"
+						   data-pat-inject=" history: record;">acute rinosinusitis</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/aften"
+						   data-pat-inject=" history: record;">aften</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/bacteriele_huidinfecties"
+						   data-pat-inject=" history: record;">bacteriële huidinfecties</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/community_acquired_pneumonie__cap_"
+						   data-pat-inject=" history: record;">community-acquired pneumonie (CAP)</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/malaria"
+						   data-pat-inject=" history: record;">malaria</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/otitis_media_acuta"
+						   data-pat-inject=" history: record;">otitis media acuta</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/rosacea"
+						   data-pat-inject=" history: record;">rosacea</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/seksueel_overdraagbare_aandoeningen"
+						   data-pat-inject=" history: record;">seksueel overdraagbare aandoeningen</a>
+					</li>
+				<li>
+						<a class="pat-inject icon-indication" href="/bladeren/indicatieteksten/urineweginfecties?anchor=urineweginfecties_urineweginfectie_met_weefselinvasie__pyelonefritis__acute_prostatitis_"
+						   data-pat-inject=" history: record;">urineweginfectie met weefselinvasie (pyelonefritis, acute prostatitis)</a>
+					</li>
+				</ul>
+		<h3>Bronnen</h3>
+			<ol class="link-list">
+				<li id="end-note-1" class="type-reference">
+						<a title="Ga naar de eerste referentie in de tekst."
+								
+									href="#reference-1"
+								
+                           class="reference-badge pat-scroll">1</a>
+						Brunton LL, et al. (eds). Goodman and Gilman’s The pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2017.</li>
+				<li id="end-note-2" class="type-reference">
+						<a title="Ga naar de eerste referentie in de tekst."
+								
+									href="#reference-2"
+								
+                           class="reference-badge pat-scroll">2</a>
+						Aronson JK, et al. (eds). Meyler's side effects of drugs. 16th ed. Amsterdam: Elsevier, 2016.</li>
+				<li id="end-note-3" class="type-reference">
+						<a title="Ga naar de eerste referentie in de tekst."
+								
+									href="#reference-8"
+								
+                           class="reference-badge pat-scroll">3</a>
+						<a href="https://www.geneesmiddelenbijlevercirrose.nl/zorgverleners/geneesmiddelen/tetracyclines/">Stichting Health Base. Geneesmiddelen bij levercirrose: Tetracyclines. Geraadpleegd februari 2023, via geneesmiddelenbijlevercirrose.nl.</a>
+							</li>
+				<li id="end-note-4" class="type-reference">
+						<a title="Ga naar de eerste referentie in de tekst."
+								
+									href="#reference-9"
+								
+                           class="reference-badge pat-scroll">4</a>
+						<a href="https://www.lareb.nl/mvm-kennis-pagina?id=388">Lareb. Tetracyclinen bij infecties tijdens de zwangerschap. Geraadpleegd februari 2023, via lareb.nl.</a>
+							</li>
+				<li id="end-note-5" class="type-reference">
+						<a title="Ga naar de eerste referentie in de tekst."
+								
+									href="#reference-10"
+								
+                           class="reference-badge pat-scroll">5</a>
+						<a href="https://www.lareb.nl/mvm-kennis-pagina?id=389">Lareb. Tetracyclinen bij infecties tijdens de borstvoedingsperiode. Geraadpleegd februari 2023, via lareb.nl.</a>
+							</li>
+				<li id="end-note-6" class="type-reference">
+						<a title="Ga naar de eerste referentie in de tekst."
+								
+									href="#reference-11"
+								
+                           class="reference-badge pat-scroll">6</a>
+						<a href="https://www.kinderformularium.nl/">NKFK. Kinderformularium. Geraadpleegd februari 2023, via kinderformularium.nl.</a>
+							</li>
+				</ol>
+		</section>
+</article>
+            </div>
+        </div>
+    </div>
+</div><a class="pat-scroll" href="#main" data-pat-scroll="selector: #main; trigger: auto" hidden="">???naar.zoeken???</a>
+            </div>
+    <div id="site-header" class="current" role="header">
+        <a class="homepage" class="pat-inject"  data-pat-inject="history: record" href="/" title="Terug naar homepage"><span class="ro-serif dept">Zorginstituut Nederland</span></a>
+    </div>
+    <div id="footer" class="do-not-print">
+    <div class="container">
+        <div class="fk-footer">
+            <blockquote class="seven columns payoff">Onafhankelijke geneesmiddelinformatie <br/> voor zorgprofessionals</blockquote>
+            <div class="column">
+                    <h2>Service</h2>
+                    <ul class="links">
+                        <li>
+                                        <a class="pat-inject" href="/algemeen/contact" data-pat-inject=" history: record">
+                                            Contact</a>
+                                    </li>
+                                <li>
+                                        <a href="https://www.medicijngebruik.nl/scholing/e-learning/3905/hoe-haal-ik-meer-uit-het-farmacotherapeutisch-kompas"
+                                           target="_blank">
+                                            E-learning cursus FK</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/mobiele-apps" data-pat-inject=" history: record">
+                                            Mobiele apps</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/help" data-pat-inject=" history: record">
+                                            Help</a>
+                                    </li>
+                                </ul>
+                </div>
+            <div class="column">
+                    <h2>Over</h2>
+                    <ul class="links">
+                        <li>
+                                        <a class="pat-inject" href="/algemeen/over-het-fk" data-pat-inject=" history: record">
+                                            Over deze site</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/verantwoording" data-pat-inject=" history: record">
+                                            Verantwoording</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/veelgestelde-vragen" data-pat-inject=" history: record">
+                                            Veelgestelde vragen</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/proclaimer" data-pat-inject=" history: record">
+                                            Proclaimer</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/copyright" data-pat-inject=" history: record">
+                                            Copyright</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/cookies" data-pat-inject=" history: record">
+                                            Cookies</a>
+                                    </li>
+                                <li>
+                                        <a class="pat-inject" href="/algemeen/toegankelijkheid" data-pat-inject=" history: record">
+                                            Toegankelijkheid</a>
+                                    </li>
+                                </ul>
+                </div>
+            </div>
+    </div>
+</div>
+
+<script src="/assets/js/overig.js?v=5.22.00"></script>
+
+    <div class="cookiewarning clearfix">
+        Het Farmacotherapeutisch Kompas gebruikt analytische cookies om het gebruik van de website te analyseren en daarmee de website te kunnen verbeteren.<br/>
+        <a href="/algemeen/cookies" class="pat-inject" data-pat-inject=" history: record" title="Lees meer over cookies en hoe u cookies kunt uitschakelen">Lees meer over cookies en hoe u cookies kunt uitschakelen</a>
+        <button class="cookiewarning_yes close-button">Sluiten</button>
+    </div>
+<section id="place-on-homescreen-ios-safari" class="place-on-homescreen pat-collapsible" data-pat-collapsible="store: local">
+            <h2 class="title">Web-App</h2>
+            <div class="panel-content">
+                <p>Installeer deze Web-App op je iPhone: Tap <span class="iconified icon-apple-share">het deel-icoon</span> en daarna "Zet op beginscherm".</p>
+            </div>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,331 @@
+Brandname;ActiveIngredient;Strength;DosageForm;ATC;PrescribingProduct
+Hydrocortison FNA;Hydrocortison;1 mg;Capsule;H02AB09;Hydrocortison - 1 mg + Capsule
+Hydrocortison FNA;Hydrocortison;2 mg;Capsule;H02AB09;Hydrocortison - 2 mg + Capsule
+Hydrocortison FNA;Hydrocortison;3 mg;Capsule;H02AB09;Hydrocortison - 3 mg + Capsule
+Hydrocortison FNA;Hydrocortison;4 mg;Capsule;H02AB09;Hydrocortison - 4 mg + Capsule
+Hydrocortison FNA;Hydrocortison;5 mg;Capsule;H02AB09;Hydrocortison - 5 mg + Capsule
+Hydrocortison FNA;Hydrocortison;6 mg;Capsule;H02AB09;Hydrocortison - 6 mg + Capsule
+Hydrocortison FNA;Hydrocortison;7 mg;Capsule;H02AB09;Hydrocortison - 7 mg + Capsule
+Hydrocortison FNA;Hydrocortison;8 mg;Capsule;H02AB09;Hydrocortison - 8 mg + Capsule
+Hydrocortison FNA;Hydrocortison;9 mg;Capsule;H02AB09;Hydrocortison - 9 mg + Capsule
+Hydrocortison FNA;Hydrocortison;10 mg;Capsule;H02AB09;Hydrocortison - 10 mg + Capsule
+Colecalciferol drank FNA;Colecalciferol;50.000 IE/ml;Drank;A11CC05;Colecalciferol - 50.000 IE/ml + Drank
+Cetomacrogolcrème FNA;Cetomacrogol;;Crème;D02A;Cetomacrogol -  + Crème
+Cetomacrogolcrème met vaseline FNA;Cetomacrogol;10 %;Vaselinecrème;D02A;Cetomacrogol - 10 % + Vaselinecrème
+Cetomacrogolcrème met vaseline FNA;Cetomacrogol;20 %;Vaselinecrème;D02A;Cetomacrogol - 20 % + Vaselinecrème
+Cetomacrogolcrème met vaseline FNA;Cetomacrogol;50 %;Vaselinecrème;D02A;Cetomacrogol - 50 % + Vaselinecrème
+Lanettecrème I/II FNA;Lanette;;Crème;D02A;Lanette -  + Crème
+Lanettecrème met vaseline FNA;Lanette;10 %;Vaselinecrème;D02A;Lanette - 10 % + Vaselinecrème
+Lanettecrème met vaseline FNA;Lanette;20 %;Vaselinecrème;D02A;Lanette - 20 % + Vaselinecrème
+Lanettecrème met vaseline FNA;Lanette;50 %;Vaselinecrème;D02A;Lanette - 50 % + Vaselinecrème
+Vaselinecetomacrogolcrème FNA;Vaselinecetomacrogol;23 %;Vaselinecrème;D02A;Vaselinecetomacrogol - 23 % + Vaselinecrème
+Vaselinelanettecrème FNA;Vaselinelanette;23 %;Vaselinecrème;D02A;Vaselinelanette - 23 % + Vaselinecrème
+Lidocaïne gel FNA;Lidocaïne;20 mg/ml;Gel ;N01BB02;Lidocaïne - 20 mg/ml + Gel 
+Lidocaïne orale gel FNA;Lidocaïne;20 mg/ml;Orale gel ;N01BB02;Lidocaïne - 20 mg/ml + Orale gel 
+Valproïnezuur Zetpillen FNA;Valproïnezuur;250 mg;Zetpil;N03AG01;Valproïnezuur - 250 mg + Zetpil
+Valproïnezuur Zetpillen FNA;Valproïnezuur;500 mg;Zetpil;N03AG01;Valproïnezuur - 500 mg + Zetpil
+Dexamethason oogdruppels FNA;Dexamethason;1 mg/ml;Oogdruppels ;S01BA01;Dexamethason - 1 mg/ml + Oogdruppels 
+Dexamethason oogdruppels FNA;Dexamethason;1 mg/ml;Oogdruppels ;S01BA01;Dexamethason - 1 mg/ml + Oogdruppels 
+Morfine drank/injectie/zetpil FNA;Morfine;1 mg/ml;Drank;N02AA01;Morfine - 1 mg/ml + Drank
+Morfine drank/injectie/zetpil FNA;Morfine;5 mg/ml;Drank;N02AA01;Morfine - 5 mg/ml + Drank
+Morfine drank/injectie/zetpil FNA;Morfine;20 mg/ml;Drank;N02AA01;Morfine - 20 mg/ml + Drank
+Morfine drank/injectie/zetpil FNA;Morfine;5 mg/ml;Injectievloeistof voor epidurale toediening;N02AA01;Morfine - 5 mg/ml + Injectievloeistof voor epidurale toediening
+Morfine drank/injectie/zetpil FNA;Morfine;20 mg/ml;Injectievloeistof voor epidurale toediening;N02AA01;Morfine - 20 mg/ml + Injectievloeistof voor epidurale toediening
+Morfine drank/injectie/zetpil FNA;Morfine;20 mg/ml;Injectievloeistof voor epidurale toediening;N02AA01;Morfine - 20 mg/ml + Injectievloeistof voor epidurale toediening
+Morfine drank/injectie/zetpil FNA;Morfine;10 mg;Zetpil;N02AA01;Morfine - 10 mg + Zetpil
+Morfine drank/injectie/zetpil FNA;Morfine;20 mg;Zetpil;N02AA01;Morfine - 20 mg + Zetpil
+Morfine drank/injectie/zetpil FNA;Morfine;50 mg;Zetpil;N02AA01;Morfine - 50 mg + Zetpil
+Cetomacrogolzalf FNA;Cetomacrogol;;Vette zalf;D02A;Cetomacrogol -  + Vette zalf
+Koelzalf FNA;Koel;;Zalf;D02A;Koel -  + Zalf
+Lanettezalf FNA;Lanette;;Vette zalf;D02A;Lanette -  + Vette zalf
+Vaselineparaffinezalf I/II FNA;Vaselineparaffine;;Vette zalf;D02A;Vaselineparaffine -  + Vette zalf
+Waterhoudende zalf FNA;Waterhoudende;;Zalf;D02A;Waterhoudende -  + Zalf
+Miconazol zalf/zinkoxidesmeersel FNA;Miconazol;20 mg/g;Zalf ;D01AC02;Miconazol - 20 mg/g + Zalf 
+Miconazol zalf/zinkoxidesmeersel FNA;Miconazol;20 mg/g;Smeersel ;D01AC02;Miconazol - 20 mg/g + Smeersel 
+Miconazol zinkoxidekalkwaterzalf FNA;Miconazol;20 mg/g;Zalf ;D01AC02;Miconazol - 20 mg/g + Zalf 
+Dexamethason capsule/drank FNA;Dexamethason;10 mg;Capsule;H02AB02;Dexamethason - 10 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;15 mg;Capsule;H02AB02;Dexamethason - 15 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;20 mg;Capsule;H02AB02;Dexamethason - 20 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;25 mg;Capsule;H02AB02;Dexamethason - 25 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;30 mg;Capsule;H02AB02;Dexamethason - 30 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;35 mg;Capsule;H02AB02;Dexamethason - 35 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;40 mg;Capsule;H02AB02;Dexamethason - 40 mg + Capsule
+Dexamethason capsule/drank FNA;Dexamethason;1 mg/ml;Drank;H02AB02;Dexamethason - 1 mg/ml + Drank
+Prednisolon capsule FNA;Prednisolon;10 mg;Capsule;H02AB06;Prednisolon - 10 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;15 mg;Capsule;H02AB06;Prednisolon - 15 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;20 mg;Capsule;H02AB06;Prednisolon - 20 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;25 mg;Capsule;H02AB06;Prednisolon - 25 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;30 mg;Capsule;H02AB06;Prednisolon - 30 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;35 mg;Capsule;H02AB06;Prednisolon - 35 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;40 mg;Capsule;H02AB06;Prednisolon - 40 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;45 mg;Capsule;H02AB06;Prednisolon - 45 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;50 mg;Capsule;H02AB06;Prednisolon - 50 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;55 mg;Capsule;H02AB06;Prednisolon - 55 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;60 mg;Capsule;H02AB06;Prednisolon - 60 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;65 mg;Capsule;H02AB06;Prednisolon - 65 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;70 mg;Capsule;H02AB06;Prednisolon - 70 mg + Capsule
+Prednisolon capsule FNA;Prednisolon;75 mg;Capsule;H02AB06;Prednisolon - 75 mg + Capsule
+Prednisolon drank/injectie FNA;Prednisolon;1 mg/ml;Drank;H02AB06;Prednisolon - 1 mg/ml + Drank
+Prednisolon drank/injectie FNA;Prednisolon;5 mg/ml;Drank;H02AB06;Prednisolon - 5 mg/ml + Drank
+Prednisolon drank/injectie FNA;Prednisolon;12,5 mg/ml;Injectievloeistof ;H02AB06;Prednisolon - 12,5 mg/ml + Injectievloeistof 
+Zinkoxidekalkwaterzalf (ZOK-zalf) FNA;Zinkoxidekalkwater;330 mg/g;Pasta, week ;D02AB;Zinkoxidekalkwater - 330 mg/g + Pasta, week 
+Zinkoxide pasta/schudsel (alcoholisch)/smeersel/vaselinecrème /zalf FNA;Zinkoxide;250 mg/g;Pasta ;D02AB;Zinkoxide - 250 mg/g + Pasta 
+Zinkoxide pasta/schudsel (alcoholisch)/smeersel/vaselinecrème /zalf FNA;Zinkoxide;150 mg/g;Suspensie voor cutaan gebruik, waterig ;D02AB;Zinkoxide - 150 mg/g + Suspensie voor cutaan gebruik, waterig 
+Zinkoxide pasta/schudsel (alcoholisch)/smeersel/vaselinecrème /zalf FNA;Zinkoxide;120 mg/g;Suspensie voor cutaan gebruik, waterig-alcoholisch ;D02AB;Zinkoxide - 120 mg/g + Suspensie voor cutaan gebruik, waterig-alcoholisch 
+Zinkoxide pasta/schudsel (alcoholisch)/smeersel/vaselinecrème /zalf FNA;Zinkoxide;600 mg/g;Smeersel ;D02AB;Zinkoxide - 600 mg/g + Smeersel 
+Zinkoxide pasta/schudsel (alcoholisch)/smeersel/vaselinecrème /zalf FNA;Zinkoxide;100 mg/g;Vaselinecrème ;D02AB;Zinkoxide - 100 mg/g + Vaselinecrème 
+Zinkoxide pasta/schudsel (alcoholisch)/smeersel/vaselinecrème /zalf FNA;Zinkoxide;100 mg/g;Zalf, hydrofoob ;D02AB;Zinkoxide - 100 mg/g + Zalf, hydrofoob 
+Xylometazoline Neusdruppels/Neusspray FNA;Xylometazoline;0,25 mg/ml;Neusdruppels ;R01AA07;Xylometazoline - 0,25 mg/ml + Neusdruppels 
+Xylometazoline Neusdruppels/Neusspray FNA;Xylometazoline;0,25 mg/ml;Neusspray ;R01AA07;Xylometazoline - 0,25 mg/ml + Neusspray 
+Lithiumcarbonaat capsule FNA;Lithiumcarbonaat;100 mg;Capsule ;N05AN01;Lithiumcarbonaat - 100 mg + Capsule 
+Lithiumcarbonaat capsule FNA;Lithiumcarbonaat;150 mg;Capsule ;N05AN01;Lithiumcarbonaat - 150 mg + Capsule 
+Lithiumcarbonaat capsule FNA;Lithiumcarbonaat;225 mg;Capsule ;N05AN01;Lithiumcarbonaat - 225 mg + Capsule 
+Lithiumcarbonaat capsule FNA;Lithiumcarbonaat;300 mg;Capsule ;N05AN01;Lithiumcarbonaat - 300 mg + Capsule 
+Dexamfetamine FNA;Dexamfetamine;2,5 mg;Capsule;N06BA02;Dexamfetamine - 2,5 mg + Capsule
+Dexamfetamine FNA;Dexamfetamine;5 mg;Capsule;N06BA02;Dexamfetamine - 5 mg + Capsule
+Edetaat FNA;Edetaat;4 mg/ml;Oogdruppels;S01XA05;Edetaat - 4 mg/ml + Oogdruppels
+Edetaat FNA;Edetaat;4 mg/ml;Oogwassing;S01XA05;Edetaat - 4 mg/ml + Oogwassing
+Edetaat FNA;Edetaat;20 mg/ml;Oogwassing;S01XA05;Edetaat - 20 mg/ml + Oogwassing
+Chloorhexidine crème/oplossing FNA;Chloorhexidine;5 mg/ml;Alcoholische oplossing ;D08AC02;Chloorhexidine - 5 mg/ml + Alcoholische oplossing 
+Chloorhexidine crème/oplossing FNA;Chloorhexidine;10 mg/g;Crème ;D08AC02;Chloorhexidine - 10 mg/g + Crème 
+Chloorhexidine crème/oplossing FNA;Chloorhexidine;10 mg/ml;Oplossing, steriel ;D08AC02;Chloorhexidine - 10 mg/ml + Oplossing, steriel 
+Chloorhexidine spoeling FNA;Chloorhexidine;1 mg/ml;Oplossing, steriel ;D08AC02;Chloorhexidine - 1 mg/ml + Oplossing, steriel 
+Fenytoïne suspensie FNA;Fenytoïne;15 mg/ml;Suspensie;N03AB02;Fenytoïne - 15 mg/ml + Suspensie
+Hydrocortison smeersel/vaselinecrème FNA;Hydrocortison;10 mg/g;Smeersel ;D07AA02;Hydrocortison - 10 mg/g + Smeersel 
+Hydrocortison smeersel/vaselinecrème FNA;Hydrocortison;10 mg/g;Vaselinecrème ;D07AA02;Hydrocortison - 10 mg/g + Vaselinecrème 
+Hydrocortison crème/zalf FNA;Hydrocortison;10 mg/g;Crème ;D07AA02;Hydrocortison - 10 mg/g + Crème 
+Hydrocortison crème/zalf FNA;Hydrocortison;10 mg/g;Zalf ;D07AA02;Hydrocortison - 10 mg/g + Zalf 
+Hydrocortison crème/vaselinecrème FNA;Hydrocortison;10 mg/g;Crème ;D07AA02;Hydrocortison - 10 mg/g + Crème 
+Hydrocortison crème/vaselinecrème FNA;Hydrocortison;10 mg/g;Vaselinecrème ;D07AA02;Hydrocortison - 10 mg/g + Vaselinecrème 
+Nitrofurantoïne suspensie FNA;Nitrofurantoïne;10 mg/ml;Suspensie;J01XE01;Nitrofurantoïne - 10 mg/ml + Suspensie
+Ipratropium/Salbutamol Vernevelvloeistof FNA;Ipratropium/Salbutamol;;Vernevelvloeistof ;R03AL02;Ipratropium/Salbutamol -  + Vernevelvloeistof 
+Ipratropium/Salbutamol Vernevelvloeistof FNA;Ipratropium/Salbutamol;;Vernevelvloeistof ;R03AL02;Ipratropium/Salbutamol -  + Vernevelvloeistof 
+Clotrimazol zalf/zinkoxidekalkwaterzalf/zinkoxidesmeersel FNA;Clotrimazol;10 mg/g;Zalf ;D01AC01;Clotrimazol - 10 mg/g + Zalf 
+Clotrimazol zalf/zinkoxidekalkwaterzalf/zinkoxidesmeersel FNA;Clotrimazol;10 mg/g;Zalf ;D01AC01;Clotrimazol - 10 mg/g + Zalf 
+Clotrimazol zalf/zinkoxidekalkwaterzalf/zinkoxidesmeersel FNA;Clotrimazol;10 mg/g;Smeersel ;D01AC01;Clotrimazol - 10 mg/g + Smeersel 
+Isoniazide drank FNA;Isoniazide;10 mg/ml;Drank;J04AC01;Isoniazide - 10 mg/ml + Drank
+Isoniazide injectievloeistof FNA;Isoniazide;100 mg/ml;Injectievloeistof;J04AC01;Isoniazide - 100 mg/ml + Injectievloeistof
+Metoclopramide FNA;Metoclopramide;10 mg;Zetpil;A03FA01;Metoclopramide - 10 mg + Zetpil
+Fluoxetine FNA;Fluoxetine;5 mg;Capsule;N06AB03;Fluoxetine - 5 mg + Capsule
+Salicylzuur gel FNA;Salicylzuur;60 mg/g;Gel ;D02AF;Salicylzuur - 60 mg/g + Gel 
+Salicylzuur zalf FNA;Salicylzuur;50 mg/g;Zalf ;D02AF;Salicylzuur - 50 mg/g + Zalf 
+Salicylzuur zalf FNA;Salicylzuur;100 mg/g;Zalf ;D02AF;Salicylzuur - 100 mg/g + Zalf 
+Clindamycine gel/oplossing FNA;Clindamycine;10 mg/g;Gel ;D10AF01;Clindamycine - 10 mg/g + Gel 
+Clindamycine gel/oplossing FNA;Clindamycine;10 mg/ml;Lotion ;D10AF01;Clindamycine - 10 mg/ml + Lotion 
+Clindamycine lotion FNA;Clindamycine;10 mg/ml;Lotion ;D10AF01;Clindamycine - 10 mg/ml + Lotion 
+Atropinesulfaat FNA;Atropinesulfaat;0,1 mg/ml;Drank;A03BA01;Atropinesulfaat - 0,1 mg/ml + Drank
+Atropinesulfaat FNA;Atropinesulfaat;0,5 mg/ml;Injectievloeistof;A03BA01;Atropinesulfaat - 0,5 mg/ml + Injectievloeistof
+Valaciclovir drank FNA;Valaciclovir;20 mg/ml;Drank;J05AB11;Valaciclovir - 20 mg/ml + Drank
+Natriumfluoride mondgel/mondspoeling FNA;Natriumfluoride;10 mg/g;Mondgel, neutraal ;A01AA01;Natriumfluoride - 10 mg/g + Mondgel, neutraal 
+Natriumfluoride mondgel/mondspoeling FNA;Natriumfluoride;0,5 mg/ml;Mondspoeling ;A01AA01;Natriumfluoride - 0,5 mg/ml + Mondspoeling 
+Natriumfluoride mondgel/mondspoeling FNA;Natriumfluoride;1 mg/ml;Mondspoeling ;A01AA01;Natriumfluoride - 1 mg/ml + Mondspoeling 
+Acetazolamide suspensie FNA;Acetazolamide;10 mg/ml;Suspensie voor oraal gebruik;S01EC01;Acetazolamide - 10 mg/ml + Suspensie voor oraal gebruik
+Sulfasalazine Suspensie FNA;Sulfasalazine;100 mg/ml;Suspensie;A07EC01;Sulfasalazine - 100 mg/ml + Suspensie
+Mercaptopurine Suspensie FNA;Mercaptopurine;10 mg/ml;Suspensie;L01BB02;Mercaptopurine - 10 mg/ml + Suspensie
+Furosemide drank FNA;Furosemide;2 mg/ml;Drank;C03CA01;Furosemide - 2 mg/ml + Drank
+Amlodipine drank FNA;Amlodipine;0,5 mg/ml;Drank;C08CA01;Amlodipine - 0,5 mg/ml + Drank
+Enalapril drank FNA;Enalapril;1 mg/ml;Drank;C09AA02;Enalapril - 1 mg/ml + Drank
+Fenobarbital drank FNA met acetem;Fenobarbital;4 mg/ml;Drank ;N03AA02;Fenobarbital - 4 mg/ml + Drank 
+Kaliumjodide FNA;Kaliumjodide;50 mg;Capsule;V03AB21;Kaliumjodide - 50 mg + Capsule
+Kaliumjodide FNA;Kaliumjodide;200 mg;Capsule;V03AB21;Kaliumjodide - 200 mg + Capsule
+Fytomenadiondrank FNA;Fytomenadion;10 mg/ml;Drank;B02BA01;Fytomenadion - 10 mg/ml + Drank
+Lorazepam FNA;Lorazepam;1 mg/ml;Drank;N05BA06;Lorazepam - 1 mg/ml + Drank
+Propranololdrank FNA;Propranolol;1 mg/ml;Drank;C07AA05;Propranolol - 1 mg/ml + Drank
+Propranololdrank FNA;Propranolol;10 mg/ml;Drank;C07AA05;Propranolol - 10 mg/ml + Drank
+Coffeïne injectie FNA;Coffeïne;10 mg/ml;Injectievloeistof;N06BC01;Coffeïne - 10 mg/ml + Injectievloeistof
+Magnesiumgluconaat Drank FNA;Magnesiumgluconaat;45 mg/ml;Drank;A12CC03;Magnesiumgluconaat - 45 mg/ml + Drank
+Magnesiumsulfaat injectie FNA;Magnesiumsulfaat;200 mg/ml;Injectievloeistof;A12CC02;Magnesiumsulfaat - 200 mg/ml + Injectievloeistof
+Docusaat Klysma FNA;Docusaat;;Klysma;A06AG10;Docusaat -  + Klysma
+Methylthionine FNA;Methylthionine;10 mg/ml;Injectievloeistof;V03AB17;Methylthionine - 10 mg/ml + Injectievloeistof
+Capsaïcine crème FNA;Capsaïcine;0,25 mg/g;Crème ;N01BX04;Capsaïcine - 0,25 mg/g + Crème 
+Capsaïcine crème FNA;Capsaïcine;0,75 mg/g;Crème ;N01BX04;Capsaïcine - 0,75 mg/g + Crème 
+Ferrosulfaatdrank FNA;Ferrosulfaat;16,7 mg/ml;Drank;B03AA07;Ferrosulfaat - 16,7 mg/ml + Drank
+Salicylzuur FNA;Salicylzuur;200 mg/g;Zalf ;D11AF;Salicylzuur - 200 mg/g + Zalf 
+Salicylzuur FNA;Salicylzuur;400 mg/g;Zalf ;D11AF;Salicylzuur - 400 mg/g + Zalf 
+Diltiazemhydrochloride Vaselinecrème FNA;Diltiazemhydrochloride;20 mg/g;Vaselinecrème ;C05AE03;Diltiazemhydrochloride - 20 mg/g + Vaselinecrème 
+Lidocaïne Vaselinecrème FNA;Lidocaïne;30 mg/g;Vaselinecrème ;D04AB01;Lidocaïne - 30 mg/g + Vaselinecrème 
+Kinine Infusievloeistof FNA;Kinine;120 mg/ml;Concentraat voor infusievloeistof;P01BC01;Kinine - 120 mg/ml + Concentraat voor infusievloeistof
+Pilocarpine oogdruppel FNA;Pilocarpine;1,25 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 1,25 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;10 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 10 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;20 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 20 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;30 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 30 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;40 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 40 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;10 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 10 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;20 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 20 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;30 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 30 mg/ml + Oogdruppels 
+Pilocarpine oogdruppel FNA;Pilocarpine;40 mg/ml;Oogdruppels ;S01EB01;Pilocarpine - 40 mg/ml + Oogdruppels 
+Kaliumchloride Drank FNA;Kaliumchloride;75 mg/ml;Drank;A12BA01;Kaliumchloride - 75 mg/ml + Drank
+Minoxidil Oplossing FNA;Minoxidil;50 mg/ml;Oplossing voor cutaan gebruik;D11AX01;Minoxidil - 50 mg/ml + Oplossing voor cutaan gebruik
+Atropine Oogdruppels FNA;Atropine;0,1 mg/ml;Oogdruppels ;S01FA01;Atropine - 0,1 mg/ml + Oogdruppels 
+Atropine Oogdruppels FNA;Atropine;0,5 mg/ml;Oogdruppels ;S01FA01;Atropine - 0,5 mg/ml + Oogdruppels 
+Atropine Oogdruppels FNA;Atropine;2,5 mg/ml;Oogdruppels ;S01FA01;Atropine - 2,5 mg/ml + Oogdruppels 
+Atropine Oogdruppels FNA;Atropine;5 mg/ml;Oogdruppels ;S01FA01;Atropine - 5 mg/ml + Oogdruppels 
+Atropine Oogdruppels FNA;Atropine;10 mg/ml;Oogdruppels ;S01FA01;Atropine - 10 mg/ml + Oogdruppels 
+Methadon drank/injectie FNA;Methadon;5 mg/ml;Drank;N07BC02;Methadon - 5 mg/ml + Drank
+Methadon drank/injectie FNA;Methadon;10 mg/ml;Injectievloeistof;N07BC02;Methadon - 10 mg/ml + Injectievloeistof
+Hydrochloorthiazide drank FNA;Hydrochloorthiazide;0,5 mg/ml;Drank;C03AA03;Hydrochloorthiazide - 0,5 mg/ml + Drank
+Povidonjodium oogdruppels FNA;Povidonjodium;3 mg/ml;Oogdruppels ;S01AX18;Povidonjodium - 3 mg/ml + Oogdruppels 
+Natriumhypochlorietsmeersel FNA;Natriumhypochloriet;2,38 mg/g;Smeersel ;D08AX07;Natriumhypochloriet - 2,38 mg/g + Smeersel 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;50 mg/g;Crème ;D02AE01;Ureum - 50 mg/g + Crème 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;100 mg/g;Crème ;D02AE01;Ureum - 100 mg/g + Crème 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;50 mg/g;Vaselinecrème ;D02AE01;Ureum - 50 mg/g + Vaselinecrème 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;100 mg/g;Vaselinecrème ;D02AE01;Ureum - 100 mg/g + Vaselinecrème 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;50 mg/g;Koelzalf ;D02AE01;Ureum - 50 mg/g + Koelzalf 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;100 mg/g;Koelzalf ;D02AE01;Ureum - 100 mg/g + Koelzalf 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;50 mg/g;Zalf ;D02AE01;Ureum - 50 mg/g + Zalf 
+Ureum crème/vaselinecrème/koelzalf/zalf FNA;Ureum;100 mg/g;Zalf ;D02AE01;Ureum - 100 mg/g + Zalf 
+Ureum zalf watervrij FNA;Ureum;200 mg/g;Zalf ;D02AE01;Ureum - 200 mg/g + Zalf 
+Ureum zalf watervrij FNA;Ureum;400 mg/g;Zalf ;D02AE01;Ureum - 400 mg/g + Zalf 
+Spironolacton drank FNA met acetem;Spironolacton;1 mg/ml;Drank;C03DA01;Spironolacton - 1 mg/ml + Drank
+Triamcinolonacetonide crème/smeersel/vaselinecreme/zalf FNA;Triamcinolonacetonide;1 mg/g;Crème ;D07AB09;Triamcinolonacetonide - 1 mg/g + Crème 
+Triamcinolonacetonide crème/smeersel/vaselinecreme/zalf FNA;Triamcinolonacetonide;1 mg/g;Smeersel ;D07AB09;Triamcinolonacetonide - 1 mg/g + Smeersel 
+Triamcinolonacetonide crème/smeersel/vaselinecreme/zalf FNA;Triamcinolonacetonide;1 mg/g;Vaselinecrème ;D07AB09;Triamcinolonacetonide - 1 mg/g + Vaselinecrème 
+Triamcinolonacetonide crème/smeersel/vaselinecreme/zalf FNA;Triamcinolonacetonide;1 mg;Zalf ;D07AB09;Triamcinolonacetonide - 1 mg + Zalf 
+Calciumgluconaat FNA;Calciumgluconaat;;Hydrogel;D11AX03;Calciumgluconaat -  + Hydrogel
+Azelaïnezuur FNA;Azelaïnezuur;200 mg/g;Crème ;D10AX03;Azelaïnezuur - 200 mg/g + Crème 
+Tetracyclinemondspoeling FNA;Tetracycline;50 mg/ml;Mondspoeling ;A01AB13;Tetracycline - 50 mg/ml + Mondspoeling 
+Kaliumcitraatdrank FNA;Kaliumcitraat;0,33 mmol/ml;Drank;A12BA02;Kaliumcitraat - 0,33 mmol/ml + Drank
+Natriumcitraatdrank FNA;Natriumcitraat;0,33 mmol/ml;Drank;B05CB02;Natriumcitraat - 0,33 mmol/ml + Drank
+Hydrochinon FNA;Hydrochinon;20 mg/g;Crème ;D11AX11;Hydrochinon - 20 mg/g + Crème 
+Hydrochinon FNA;Hydrochinon;50 mg/g;Crème ;D11AX11;Hydrochinon - 50 mg/g + Crème 
+Resorcinol FNA;Resorcinol;150 mg/g;Crème ;D10AX02;Resorcinol - 150 mg/g + Crème 
+Cocaïne Oogdruppels FNA;Cocaïne;50 mg/ml;Oogdruppels ;S01HA01;Cocaïne - 50 mg/ml + Oogdruppels 
+Cocaïne Oogdruppels FNA;Cocaïne;50 mg/ml;Oogdruppels  zond cons;S01HA01;Cocaïne - 50 mg/ml + Oogdruppels  zond cons
+Clobetasolpropionaat mondspoeling FNA;Clobetasolpropionaat;0,25 mg/ml;Mondspoeling;A01AC;Clobetasolpropionaat - 0,25 mg/ml + Mondspoeling
+Zure Oordruppels FNA;Zure Oordruppels ;7 mg/g;Oordruppels;S02AA10;Zure Oordruppels  - 7 mg/g + Oordruppels
+Aluminiumacetotartraat Oplossing FNA;Aluminiumacetotartraat;120 mg/g;Oplossing ;D08AB;Aluminiumacetotartraat - 120 mg/g + Oplossing 
+Tretinoïne/hydrochinon FNA;Tretinoïne/hydrochinon;;Crème ;D10AD51;Tretinoïne/hydrochinon -  + Crème 
+Tretinoïne/hydrochinon FNA;Tretinoïne/hydrochinon;;Crème ;D10AD51;Tretinoïne/hydrochinon -  + Crème 
+Tretinoïne mondpasta FNA;Tretinoïne;1 mg/g;Mondpasta ;A01AD11;Tretinoïne - 1 mg/g + Mondpasta 
+Triamcinolonacetonide mondpasta FNA;Triamcinolonacetonide;1 mg/g;Mondpasta;A01AC01;Triamcinolonacetonide - 1 mg/g + Mondpasta
+Zinkoxide Zetpillen FNA;Zinkoxide;100 mg/g;Zetpil;D02AB;Zinkoxide - 100 mg/g + Zetpil
+Zinksulfaat Vaselinecrème FNA;Zinksulfaat;5 mg/g;Crème ;C05AX04;Zinksulfaat - 5 mg/g + Crème 
+Zinksulfaat Drank FNA;Zinksulfaat;10 mg/ml;Drank;A12CB01;Zinksulfaat - 10 mg/ml + Drank
+Theofylline Klysma FNA;Theofylline;10 mg/ml;Klysma;R03DA04;Theofylline - 10 mg/ml + Klysma
+Theofylline Klysma FNA;Theofylline;30 mg/ml;Klysma;R03DA04;Theofylline - 30 mg/ml + Klysma
+Theofylline Klysma FNA;Theofylline;50 mg/ml;Klysma;R03DA04;Theofylline - 50 mg/ml + Klysma
+Sulfadiazine Suspensie FNA;Sulfadiazine;100 mg/ml;Suspensie;J01EC02;Sulfadiazine - 100 mg/ml + Suspensie
+Fenylbutazon Capsules FNA;Fenylbutazon;100 mg;Capsule;M01AA01;Fenylbutazon - 100 mg + Capsule
+Erytromycine Oogzalf FNA;Erytromycine;5 mg/g;Zalf ;S01AA17;Erytromycine - 5 mg/g + Zalf 
+Lidocaïne/levomentholgel FNA;Lidocaïne/levomenthol;;Gel;D04AB01;Lidocaïne/levomenthol -  + Gel
+Lidocaïne zinkoxidesmeersel FNA;Lidocaïne;;Smeersel ;D04AB01;Lidocaïne -  + Smeersel 
+Carbomeerwatergel 1% FNA;Carbomeerwater;;Gel;D02AX;Carbomeerwater -  + Gel
+Isosorbidedinitraat Vaselinecrème FNA;Isosorbidedinitraat;10 mg/g;Vaselinecrème ;C05AE02;Isosorbidedinitraat - 10 mg/g + Vaselinecrème 
+Kaliumwaterstoftartraat Suspensie FNA;Kaliumwaterstoftartraat;188 mg/ml;Suspensie;A12BA03;Kaliumwaterstoftartraat - 188 mg/ml + Suspensie
+Miconazol oordruppels FNA;Miconazol;20 mg/g;Oordruppels;S02AA13;Miconazol - 20 mg/g + Oordruppels
+Glycerol gorgeldrank FNA;Glycerol;42,5 mg/ml;Gorgeldrank;R02AA20;Glycerol - 42,5 mg/ml + Gorgeldrank
+Griseofulvine suspensie FNA;Griseofulvine;25 mg/ml;Suspensie voor oraal gebruik;D01BA01;Griseofulvine - 25 mg/ml + Suspensie voor oraal gebruik
+Paraffine emulsie FNA;Paraffine;0,6 ml/ml;Emulsie voor oraal gebruik;A06AA01;Paraffine - 0,6 ml/ml + Emulsie voor oraal gebruik
+Aluminiumchloride Oplossing FNA;Aluminiumchloride;200 mg/ml;Oplossing;D11AA;Aluminiumchloride - 200 mg/ml + Oplossing
+Folinezuur oogdruppels FNA;Folinezuur;0,3 mg/ml;Oogdruppels;V03AF03;Folinezuur - 0,3 mg/ml + Oogdruppels
+Folinezuur oogdruppels FNA;Folinezuur;0,3 mg/ml;Oogdruppels;V03AF03;Folinezuur - 0,3 mg/ml + Oogdruppels
+Folinezuur oogdruppels FNA;Folinezuur;10 mg/ml;Oogdruppels;V03AF03;Folinezuur - 10 mg/ml + Oogdruppels
+Folinezuur oogdruppels FNA;Folinezuur;10 mg/ml;Oogdruppels;V03AF03;Folinezuur - 10 mg/ml + Oogdruppels
+Aluminiumacetotartraat Oordruppels FNA;Aluminiumacetotartraat;12 mg/g;Oordruppels ;S02AA04;Aluminiumacetotartraat - 12 mg/g + Oordruppels 
+Aluminiumacetotartraat Oordruppels FNA;Aluminiumacetotartraat;120 mg/g;Oordruppels ;S02AA04;Aluminiumacetotartraat - 120 mg/g + Oordruppels 
+Ferrochloride Drank FNA;Ferrochloride;45 mg/ml;Drank;B03AA05;Ferrochloride - 45 mg/ml + Drank
+Levomenthol Stoomdruppels FNA;Levomenthol;50 mg/ml;Stoomdruppels;R05X;Levomenthol - 50 mg/ml + Stoomdruppels
+Cyclizine zetpil FNA;Cyclizine;100 mg;Zetpil ;R06AE03;Cyclizine - 100 mg + Zetpil 
+Natriumchloride Oogwassing FNA;Natriumchloride;9 mg/ml;Oogwassing;S01XA20;Natriumchloride - 9 mg/ml + Oogwassing
+Acetylcysteïne Oogdruppels FNA;Acetylcysteïne;50 mg/ml;Oogdruppels ;S01XA08;Acetylcysteïne - 50 mg/ml + Oogdruppels 
+Beclometason Klysma FNA;Beclometason;0,03 mg/g;Klysma ;A07EA07;Beclometason - 0,03 mg/g + Klysma 
+Chloorpromazine Zetpillen FNA;Chloorpromazine;25 mg;Zetpil;N05AA01;Chloorpromazine - 25 mg + Zetpil
+Chloorpromazine Zetpillen FNA;Chloorpromazine;100 mg;Zetpil;N05AA01;Chloorpromazine - 100 mg + Zetpil
+Podofylline Collodium FNA;Podofylline;50 mg/g;Collodium ;D06BB04;Podofylline - 50 mg/g + Collodium 
+Podofylline Collodium FNA;Podofylline;200 mg/g;Collodium ;D06BB04;Podofylline - 200 mg/g + Collodium 
+Podofylline Collodium FNA;Podofylline;250 mg/g;Collodium ;D06BB04;Podofylline - 250 mg/g + Collodium 
+Clioquinol suspensie FNA;Clioquinol;100 mg/ml;Suspensie;P01AA02;Clioquinol - 100 mg/ml + Suspensie
+Metronidazol gel FNA;Metronidazol;10 mg/g;Gel steriel ;D06BX01;Metronidazol - 10 mg/g + Gel steriel 
+Ergocoffeïne Zetpillen FNA;Ergocoffeïne;;Zetpil;N02CA52;Ergocoffeïne -  + Zetpil
+Dimethylsulfoxide vaselinecrème/oplossing FNA;Dimethylsulfoxide;500 mg/g;Crème ;M02AX03;Dimethylsulfoxide - 500 mg/g + Crème 
+Dimethylsulfoxide vaselinecrème/oplossing FNA;Dimethylsulfoxide;500 mg/g;Oplossing ;M02AX03;Dimethylsulfoxide - 500 mg/g + Oplossing 
+Ditranol-Salicylzuur Collodium FNA;Ditranol-Salicylzuur;;Applicatievloeistof;D11AF;Ditranol-Salicylzuur -  + Applicatievloeistof
+Benzoëzuursalicylzuur crème/zalf FNA;Benzoëzuursalicylzuur;;Crème;D01AE20;Benzoëzuursalicylzuur -  + Crème
+Benzoëzuursalicylzuur crème/zalf FNA;Benzoëzuursalicylzuur;;Zalf;D01AE20;Benzoëzuursalicylzuur -  + Zalf
+Benzylbenzoaat smeersel 25% FNA;Benzylbenzoaat;250 mg/g;Smeersel;P03AX01;Benzylbenzoaat - 250 mg/g + Smeersel
+Fosfaatdrank 1 mmol/ml FNA;Fosfaat;156 mg/ml;Drank;A12CX;Fosfaat - 156 mg/ml + Drank
+Tretinoïne crème/oplossing FNA;Tretinoïne;0,2 mg/g;Crème ;D10AD01;Tretinoïne - 0,2 mg/g + Crème 
+Tretinoïne crème/oplossing FNA;Tretinoïne;0,5 mg/g;Crème ;D10AD01;Tretinoïne - 0,5 mg/g + Crème 
+Tretinoïne crème/oplossing FNA;Tretinoïne;0,2 mg/ml;Oplossing ;D10AD01;Tretinoïne - 0,2 mg/ml + Oplossing 
+Tretinoïne crème/oplossing FNA;Tretinoïne;0,5 mg/ml;Oplossing ;D10AD01;Tretinoïne - 0,5 mg/ml + Oplossing 
+Tretinoïne crème/oplossing FNA;Tretinoïne;1 mg/ml;Oplossing ;D10AD01;Tretinoïne - 1 mg/ml + Oplossing 
+Triamcinolon-Ureum Crème FNA;Triamcinolon-Ureum;;Crème ;D07XB02;Triamcinolon-Ureum -  + Crème 
+Waterstofperoxide Oplossing 3% FNA;Waterstofperoxide;30 mg/ml;Concentraat voor mondspoeling;A01AB02;Waterstofperoxide - 30 mg/ml + Concentraat voor mondspoeling
+Tranexaminezuur mondspoeling 5% FNA;Tranexaminezuur;50 mg/ml;Mondspoeling;A01AD11;Tranexaminezuur - 50 mg/ml + Mondspoeling
+Tetracycline oogdruppels/zalf FNA;Tetracycline;5 mg/ml;Oogdruppels ;S01AA09;Tetracycline - 5 mg/ml + Oogdruppels 
+Tetracycline oogdruppels/zalf FNA;Tetracycline;10 mg/g;Oogzalf ;S01AA09;Tetracycline - 10 mg/g + Oogzalf 
+Tetracycline Crème/Smeersel/Zalf FNA;Tetracycline;30 mg/g;Crème ;D06AA04;Tetracycline - 30 mg/g + Crème 
+Tetracycline Crème/Smeersel/Zalf FNA;Tetracycline;10 mg/g;Smeersel ;D06AA04;Tetracycline - 10 mg/g + Smeersel 
+Tetracycline Crème/Smeersel/Zalf FNA;Tetracycline;10 mg/g;Zalf  ;D06AA04;Tetracycline - 10 mg/g + Zalf  
+Tetracycline Crème/Smeersel/Zalf FNA;Tetracycline;30 mg/g;Zalf ;D06AA04;Tetracycline - 30 mg/g + Zalf 
+Levomenthol crème/gel/schudsel FNA;Levomenthol;10 mg/g;Crème ;D04AX;Levomenthol - 10 mg/g + Crème 
+Levomenthol crème/gel/schudsel FNA;Levomenthol;10 mg/g;Gel ;D04AX;Levomenthol - 10 mg/g + Gel 
+Levomenthol crème/gel/schudsel FNA;Levomenthol;10 mg/g;Schudsel ;D04AX;Levomenthol - 10 mg/g + Schudsel 
+Jodiumoplossing 1%, alcoholisch FNA;Jodiumoplossing;10 mg/g;Alcoholische oplossing;D08AG03;Jodiumoplossing - 10 mg/g + Alcoholische oplossing
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;3 g;Poeder;A06AD13;Natriumsulfaat - 3 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;6 g;Poeder;A06AD13;Natriumsulfaat - 6 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;9 g;Poeder;A06AD13;Natriumsulfaat - 9 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;12 g;Poeder;A06AD13;Natriumsulfaat - 12 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;15 g;Poeder;A06AD13;Natriumsulfaat - 15 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;18 g;Poeder;A06AD13;Natriumsulfaat - 18 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;21 g;Poeder;A06AD13;Natriumsulfaat - 21 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;24 g;Poeder;A06AD13;Natriumsulfaat - 24 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;27 g;Poeder;A06AD13;Natriumsulfaat - 27 g + Poeder
+Natriumsulfaatpoeder voor Drank FNA;Natriumsulfaat;30 g;Poeder;A06AD13;Natriumsulfaat - 30 g + Poeder
+Hydrocortison-Ureum Zalf FNA;Hydrocortison-Ureum;;Zalf;D07XA01;Hydrocortison-Ureum -  + Zalf
+Paracetamol/Codeïne Zetpillen FNA;Paracetamol/Codeïne;;Zetpil;N02AJ06;Paracetamol/Codeïne -  + Zetpil
+Paracetamol/Codeïne Zetpillen FNA;Paracetamol/Codeïne;;Zetpil;N02AJ06;Paracetamol/Codeïne -  + Zetpil
+Paracetamol/Codeïne Zetpillen FNA;Paracetamol/Codeïne;;Zetpil;N02AJ06;Paracetamol/Codeïne -  + Zetpil
+Paracetamol/Codeïne Zetpillen FNA;Paracetamol/Codeïne;;Zetpil;N02AJ06;Paracetamol/Codeïne -  + Zetpil
+Paracetamol/Codeïne Zetpillen FNA;Paracetamol/Codeïne;;Zetpil;N02AJ06;Paracetamol/Codeïne -  + Zetpil
+Polymyxine B oordruppels 0,1% FNA;Polymyxine B;10.000 IE/ml;Oordruppels;S02AA11;Polymyxine B - 10.000 IE/ml + Oordruppels
+Clindamycine vaginaal crème FNA;Clindamycine;20 mg/g;Vaginale crème ;G01AA10;Clindamycine - 20 mg/g + Vaginale crème 
+Aluin Strooipoeder, samengesteld FNA;Aluin;;Strooipoeder;D11AA;Aluin -  + Strooipoeder
+Aluminiumhydroxychloride Crème/Oplossing FNA;Aluminiumhydroxychloride;200 mg/g;Crème ;D11AA;Aluminiumhydroxychloride - 200 mg/g + Crème 
+Aluminiumhydroxychloride Crème/Oplossing FNA;Aluminiumhydroxychloride;150 mg/ml;Oplossing ;D11AA;Aluminiumhydroxychloride - 150 mg/ml + Oplossing 
+Natriumchloride Neusdruppels/Neusspray FNA;Natriumchloride;8 mg/ml;Druppels ;R01AX10;Natriumchloride - 8 mg/ml + Druppels 
+Natriumchloride Neusdruppels/Neusspray FNA;Natriumchloride;8 mg/ml;Spray ;R01AX10;Natriumchloride - 8 mg/ml + Spray 
+Ditranol Crème/Zalf FNA;Ditranol;0,5 mg/g;Crème ;D05AC01;Ditranol - 0,5 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;1 mg/g;Crème ;D05AC01;Ditranol - 1 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;2 mg/g;Crème ;D05AC01;Ditranol - 2 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;3 mg/g;Crème ;D05AC01;Ditranol - 3 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;4 mg/g;Crème ;D05AC01;Ditranol - 4 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;6 mg/g;Crème ;D05AC01;Ditranol - 6 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;8 mg/g;Crème ;D05AC01;Ditranol - 8 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;10 mg/g;Crème ;D05AC01;Ditranol - 10 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;20 mg/g;Crème ;D05AC01;Ditranol - 20 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;30 mg/g;Crème ;D05AC01;Ditranol - 30 mg/g + Crème 
+Ditranol Crème/Zalf FNA;Ditranol;0,5 mg/g;Zalf ;D05AC01;Ditranol - 0,5 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;1 mg/g;Zalf ;D05AC01;Ditranol - 1 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;2 mg/g;Zalf ;D05AC01;Ditranol - 2 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;3 mg/g;Zalf ;D05AC01;Ditranol - 3 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;4 mg/g;Zalf ;D05AC01;Ditranol - 4 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;6 mg/g;Zalf ;D05AC01;Ditranol - 6 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;8 mg/g;Zalf ;D05AC01;Ditranol - 8 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;10 mg/g;Zalf ;D05AC01;Ditranol - 10 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;20 mg/g;Zalf ;D05AC01;Ditranol - 20 mg/g + Zalf 
+Ditranol Crème/Zalf FNA;Ditranol;30 mg/g;Zalf ;D05AC01;Ditranol - 30 mg/g + Zalf 
+Koolteer vaselinecrème/zinkoxidepasta/zalf FNA;Koolteer;;Pasta ;D05AA;Koolteer -  + Pasta 
+Koolteer vaselinecrème/zinkoxidepasta/zalf FNA;Koolteer;;Pasta ;D05AA;Koolteer -  + Pasta 
+Koolteer vaselinecrème/zinkoxidepasta/zalf FNA;Koolteer;;Vaselinecrème ;D05AA;Koolteer -  + Vaselinecrème 
+Koolteer vaselinecrème/zinkoxidepasta/zalf FNA;Koolteer;;Vaselinecrème ;D05AA;Koolteer -  + Vaselinecrème 
+Koolteer vaselinecrème/zinkoxidepasta/zalf FNA;Koolteer;;Zalf ;D05AA;Koolteer -  + Zalf 
+Koolteer vaselinecrème/zinkoxidepasta/zalf FNA;Koolteer;;Zalf ;D05AA;Koolteer -  + Zalf 
+Natriumchloride Oogdruppels/Oogzalf FNA;Natriumchloride;50 mg/ml;Oogdruppels;S01XA03;Natriumchloride - 50 mg/ml + Oogdruppels
+Natriumchloride Oogdruppels/Oogzalf FNA;Natriumchloride;50 mg/g;Oogzalf;S01XA03;Natriumchloride - 50 mg/g + Oogzalf
+Beclometason-Mesalazine Klysma FNA;Beclometason-Mesalazine;;Klysma;A07E;Beclometason-Mesalazine -  + Klysma
+Beclometason-Mesalazine Klysma FNA;Beclometason-Mesalazine;;Klysma;A07E;Beclometason-Mesalazine -  + Klysma
+Beclometason-Mesalazine Klysma FNA;Beclometason-Mesalazine;;Klysma;A07E;Beclometason-Mesalazine -  + Klysma
+Beclometason-Mesalazine Klysma FNA;Beclometason-Mesalazine;;Klysma;A07E;Beclometason-Mesalazine -  + Klysma
+Gentiaanviolet oplossing 1% FNA;Gentiaanviolet;10 mg/ml;Oplossing;D01AE02;Gentiaanviolet - 10 mg/ml + Oplossing
+Chloralhydraat Drank/Klysma FNA;Chloralhydraat;100 mg/ml;Drank;N05CC01;Chloralhydraat - 100 mg/ml + Drank
+Chloralhydraat Drank/Klysma FNA;Chloralhydraat;50 mg/ml;Klysma;N05CC01;Chloralhydraat - 50 mg/ml + Klysma
+Chloralhydraat Drank/Klysma FNA;Chloralhydraat;150 mg/ml;Klysma;N05CC01;Chloralhydraat - 150 mg/ml + Klysma
+Vitamine A Drank FNA;Vitamine;50.000 IE/ml;Drank;A11CA01;Vitamine - 50.000 IE/ml + Drank
+Zure oordruppels met Triamcinolonacetonide 0,1% FNA;Zure oordruppels met Triamcinolonacetonide 0,1% ;;Oordruppels;S02CA04;Zure oordruppels met Triamcinolonacetonide 0,1%  -  + Oordruppels
+Triamcinolon-Salicylzuur Crème/Oplossing/Smeersel FNA;Triamcinolon-Salicylzuur;;Crème ;D07XB02;Triamcinolon-Salicylzuur -  + Crème 
+Triamcinolon-Salicylzuur Crème/Oplossing/Smeersel FNA;Triamcinolon-Salicylzuur;;Oplossing ;D07XB02;Triamcinolon-Salicylzuur -  + Oplossing 
+Triamcinolon-Salicylzuur Crème/Oplossing/Smeersel FNA;Triamcinolon-Salicylzuur;;Smeersel ;D07XB02;Triamcinolon-Salicylzuur -  + Smeersel 
+Zure oordruppels met Hydrocortison 1% FNA;Zure oordruppels met Hydrocortison 1% ;;Oordruppels;S02CA03;Zure oordruppels met Hydrocortison 1%  -  + Oordruppels
+Dexamethason/Chlooramfenicol/Polymyxine B oordruppels FNA;Dexamethason/Chlooramfenicol/Polymyxine B;;Oordruppels;S02CA06;Dexamethason/Chlooramfenicol/Polymyxine B -  + Oordruppels
+Dexamethason/Chlooramfenicol/Polymyxine B oogdruppels FNA;Dexamethason/Chlooramfenicol/Polymyxine B;;Oogdruppels;S01CA01;Dexamethason/Chlooramfenicol/Polymyxine B -  + Oogdruppels
